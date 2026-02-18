@@ -1,0 +1,35 @@
+[Introdução]
+@ Introdução
+title: Bem-vindo ao Canary
+desc: Inicie aqui sua jornada no desenvolvimento de servidores.
+content: Bem-vindo à documentação oficial! Aqui você encontrará tudo o que precisa.
+
+@ Requisitos
+title: Requisitos de Sistema
+desc: O que você precisa instalado antes de começar.
+content: <Warning>Versões antigas do GCC podem causar erros de compilação.</Warning> \n\n Verifique se possui Boost 1.80+ e OpenSSL 3.0+.
+
+[Compilando]
+@ Windows
+title: Guia de Compilação Windows
+desc: Passo a passo para compilar o servidor no Windows 10 ou 11.
+content: Certifique-se de ter o Visual Studio 2022 e o CMake instalados.
+
+@ Linux
+title: Guia de Compilação Linux
+desc: Comandos e dependências para Ubuntu e Debian.
+content: Utilize o comando apt-get para instalar as bibliotecas base.
+
+@ macOS
+title: Guia de Compilação macOS
+desc: Como compilar usando o Xcode e Homebrew.
+content: O processo é similar ao Linux, mas requer o compilador Clang.
+
+[projeto_pastas]
+@ OTServerCanary
+
+[Suporte]
+@ FAQ
+title: Perguntas Frequentes
+desc: Soluções para os erros mais comuns (ex: Database connection failed).
+content: > Verifique sempre se o seu config.lua aponta para a porta correta do MySQL (3306).

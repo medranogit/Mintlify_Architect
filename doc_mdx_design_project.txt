@@ -1,0 +1,34 @@
+---
+title: "{title}"
+description: "{desc}"
+icon: "file-code"
+---
+
+<img
+  style={{{{ borderRadius: '0.5rem' }}}}
+  src="{img}"
+/>
+
+## 🛠️ Informações do Arquivo
+...
+
+<ResponseField name="Caminho Original" type="path">
+  `server/{content}`
+</ResponseField>
+
+<Tip>
+  Este arquivo foi mapeado automaticamente pelo **Mintlify Architect**. Certifique-se de validar as dependências de sistema antes de editar este script.
+</Tip>
+
+## 📄 Visão Geral do Código
+
+Abaixo está a representação do arquivo `{title}`. Você pode utilizar este espaço para documentar funções específicas ou comportamentos do script.
+
+```lua {title}
+-- Implementação técnica de: {title}
+-- Localização: {content}
+
+function onUse(player, item, fromPosition, target, toPosition, isHotkey)
+    -- O código original seria lido e injetado aqui
+    return true
+end
