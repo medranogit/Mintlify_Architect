@@ -36,7 +36,7 @@ Certifique-se de que os arquivos `.txt` e o `.json` estão na mesma pasta do scr
 ### 3. Execução
 Execute o arquiteto:
 ```bash
-python mint_architect.py
+python start.py
 ```
 - Uma janela abrirá para selecionar a pasta raiz do seu servidor.
 - No terminal, escolha quais diretórios deseja documentar (índices separados por vírgula ou `all`).
