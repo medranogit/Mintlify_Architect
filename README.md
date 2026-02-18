@@ -1,4 +1,4 @@
-# 🚀 Mintlify Architect v20.0
+# 🚀 Mintlify Architect v20.0 [Vibe coding - Gemini)
 
 O **Mintlify Architect** é um motor de automação em Python desenvolvido para transformar estruturas massivas de servidores (como **Canary**, **OTServBR-Global** e projetos C++/Lua) em documentações técnicas de alto nível no [Mintlify](https://mintlify.com).
 
